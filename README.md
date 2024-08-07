@@ -4,7 +4,7 @@
 
 ### 定性分析
 
-详见[互联网征信数据分析.ipynb](https://)
+详见[互联网征信数据分析.ipynb](https://github.com/tadpole-2021/Bank-customer-data-analysis/blob/main/1%20-%20%E4%BA%92%E8%81%94%E7%BD%91%E5%BE%81%E4%BF%A1%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90.ipynb)
 
 ### 定量分析
 
